@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;  /* Otomatik olarak orantılı olacak */
+  }
+  
+  .avatar.distorted {
+    width: 200px;
+    height: 400px;  /* Genişliğin iki katı olacak */
+  }
